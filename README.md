@@ -119,7 +119,7 @@ Machine learning model predicting humanitarian crises from global development da
 
 ---
 
-## 🏅 Achievements
+##🏅 Achievements
 ```python
 achievements = {
     "🎓 Academic": ["3.95 GPA", "3x Dean's List High Honors", "4x AIME Qualifier"],
