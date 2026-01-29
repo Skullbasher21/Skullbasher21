@@ -120,25 +120,26 @@ Machine learning model predicting humanitarian crises from global development da
 ---
 
 ##🏅 Achievements
-```python
-achievements = {
-    "🎓 Academic": ["3.95 GPA", "3x Dean's List High Honors", "4x AIME Qualifier"],
-    "🏆 Competitions": ["2nd Place UN Datathon", "CMU AI Hackathon Winner"],
-    "💼 Experience": ["AI Research @ CMU", "ML Engineer @ Handshake", "Quant @ Wellington"],
-    "📚 Teaching": ["300+ hours tutoring", "AP Calculus, Physics C, CS A"]
-}
-```
+
+**🎓 Academic:** 3.95 GPA • 3x Dean's List High Honors • 4x AIME Qualifier
+
+**🏆 Competitions:** 2nd Place UN Datathon • CMU AI Hackathon Winner
+
+**💼 Experience:** AI Research @ CMU • ML Engineer @ Handshake • Quant @ Wellington
+
+**📚 Teaching:** 300+ hours tutoring AP Calculus, Physics C, CS A
 
 ---
 
 ## 🌟 Current Focus
-```javascript
-const thomas = {
-    currentlyLearning: ["Advanced ML Architectures", "Quantitative Finance", "Systems Design"],
-    workingOn: ["TeleTouch v2.0", "Toledo AI Expansion", "Trading Algorithms"],
-    interests: ["AI/ML", "Quantitative Trading", "Healthcare Tech", "EdTech"],
-    funFact: "Die-hard Tottenham Hotspur fan ⚽ | Chess enthusiast ♟️ | NYT Games addict 🎮"
-};
+
+**📚 Currently Learning:** Advanced ML Architectures • Quantitative Finance • Systems Design
+
+**🚀 Working On:** TeleTouch v2.0 • Toledo AI Expansion • Trading Algorithms
+
+**💡 Interests:** AI/ML • Quantitative Trading • Healthcare Tech • EdTech
+
+**⚽ Fun Fact:** Die-hard Tottenham Hotspur fan | Chess enthusiast ♟️ | NYT Games addict 🎮
 ```
 
 ---
