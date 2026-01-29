@@ -119,7 +119,7 @@ Machine learning model predicting humanitarian crises from global development da
 
 ---
 
-##🏅 Achievements
+## 🏅 Achievements
 
 **🎓 Academic:** 3.95 GPA • 3x Dean's List High Honors • 4x AIME Qualifier
 
@@ -140,7 +140,6 @@ Machine learning model predicting humanitarian crises from global development da
 **💡 Interests:** AI/ML • Quantitative Trading • Healthcare Tech • EdTech
 
 **⚽ Fun Fact:** Die-hard Tottenham Hotspur fan | Chess enthusiast ♟️ | NYT Games addict 🎮
-```
 
 ---
 
